@@ -2,7 +2,8 @@
 - Department of Applied Geophysics.
 - Nnamdi Azikiwe University Awka Nigeria.
 - I am a member of the Carpentries.
-- I’m interested in Python programming for Data analysis and and its application in the Geosciences. I am also interested in web development, PHP, HTML, CSS, Bootstrap, jQuery. 
+- I’m interested in Python programming for Data analysis and and its application in the Geosciences and business and financial management 
+- I am also interested in web development, PHP, HTML, CSS, Bootstrap, jQuery. 
 - I’m currently learning Application of Python for Geophysical Data analysis and machine learning 
 - I’m looking to collaborate on application of machine learning to Seismic and potential methods.
 - How to reach me on LinkedIn 
